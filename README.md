@@ -58,7 +58,7 @@ run;
 
 ## Forecasting
 
-- Forecast model on the predicted crime trend in LA
+### - Forecast model on the predicted crime trend in LA
   
 The data forecast/model, as seen below, indicates crime is not going anywhere unless there is something done. The forecast is telling us that the crime trend looking to at least maintain the volume it is at now. This gives us a basis to look for actionable insights.
 
